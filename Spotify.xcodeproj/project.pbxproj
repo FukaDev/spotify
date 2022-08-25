@@ -29,6 +29,7 @@
 		1DE8EB3B28AD835E00B474DE /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE8EB3A28AD835E00B474DE /* AudioTrack.swift */; };
 		1DE8EB3D28AD837C00B474DE /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE8EB3C28AD837C00B474DE /* Artist.swift */; };
 		1DE8EB3F28AD83B100B474DE /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE8EB3E28AD83B100B474DE /* UserProfile.swift */; };
+		1DE8EB4228B409CB00B474DE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE8EB4128B409CB00B474DE /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		1DE8EB3A28AD835E00B474DE /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		1DE8EB3C28AD837C00B474DE /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		1DE8EB3E28AD83B100B474DE /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		1DE8EB4128B409CB00B474DE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = ../../../spotify/Spotify/Resources/Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				1DE8EB0B28AC379400B474DE /* Assets.xcassets */,
 				1DE8EB0228AC379200B474DE /* AppDelegate.swift */,
 				1DE8EB0428AC379200B474DE /* SceneDelegate.swift */,
+				1DE8EB4128B409CB00B474DE /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				1DE8EB2928AD7FDF00B474DE /* SettingViewController.swift in Sources */,
 				1DE8EB2128AD7C8900B474DE /* LibraryViewController.swift in Sources */,
 				1DE8EB3F28AD83B100B474DE /* UserProfile.swift in Sources */,
+				1DE8EB4228B409CB00B474DE /* Extensions.swift in Sources */,
 				1DE8EB3728AD828400B474DE /* HapcticsManager.swift in Sources */,
 				1DE8EB2F28AD80AD00B474DE /* PlaylistViewController.swift in Sources */,
 				1DE8EB0528AC379200B474DE /* SceneDelegate.swift in Sources */,
